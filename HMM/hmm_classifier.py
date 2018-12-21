@@ -2,10 +2,6 @@
 from __future__ import print_function, division
 from future.utils import iteritems
 from builtins import range
-# Note: you may need to update your version of future
-# sudo pip install -U future
-
-
 
 import string
 import numpy as np

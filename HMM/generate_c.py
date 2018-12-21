@@ -1,7 +1,6 @@
 # Generate continuous data from an HMM.
 from __future__ import print_function, division
 from builtins import range
-
 import numpy as np
 import matplotlib.pyplot as plt
 
