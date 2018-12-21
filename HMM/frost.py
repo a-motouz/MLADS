@@ -110,5 +110,3 @@ def generate():
         print(' '.join(sentence))
 
 generate()
-
-# exercise: make them rhyme!
